@@ -1,3 +1,3 @@
 FROM python:3
-ADD myscript.py /
+ADD test1.py /
 CMD [ "python", "./test1.py" ]
